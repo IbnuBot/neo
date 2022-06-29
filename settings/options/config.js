@@ -44,7 +44,7 @@ free: 20
 // MEDIA
 global.image = fs.readFileSync("./settings/media/image.jpg")
 global.thumbnail = fs.readFileSync("./settings/media/thumb.jpg")
-global.qris = fs.readFileSync("./settings/media/qris.jpg")
+global.qris = fs.readFileSync("./settings/media/SAVE_20220618_170434.jpg")
 global.scimg = fs.readFileSync("./settings/media/script.jpg")
 global.mnuimg = fs.readFileSync("./settings/media/menu.jpg")
 global.sewimg = fs.readFileSync("./settings/media/sewa.jpg")
